@@ -16,13 +16,6 @@
 - Configurable workflows for publishing owned content, scheduling, inbound-comment handling, and business communications.
 - Status monitoring, reporting preparation, and custom adaptation to an agreed workflow.
 
-## Licensing and support
-
-- **Open Source + customisation:** from **$314**.
-- **Support and updates:** from **$50 / month**.
-
-Exact deliverables, licence, compatibility, and permitted use case are agreed before purchase.
-
 ## Contacts
 
 - Telegram: [@TheBotsLab](https://t.me/TheBotsLab)
