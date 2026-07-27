@@ -1,0 +1,25 @@
+# Credentials and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+
+# Account, browser and customer data
+cookies/
+profiles/
+accounts/
+exports/
+logs/
+data/
+proxies/
+*.sqlite
+*.db
+
+# Local tooling
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+.venv/
