@@ -7,7 +7,7 @@
 <p align="center"><strong>Управляемые браузерные процессы для разрешённой работы с собственными или авторизованно администрируемыми TikTok-аккаунтами.</strong></p>
 
 <p align="center">
-  <a href="docs/README.en.md">English</a> ·
+  <a href="docs/README.en.md">English</a> · · <a href="docs/README.ro.md">Română</a>
   <a href="docs/README.uk.md">Українська</a> ·
   <a href="docs/README.zh-CN.md">中文</a> ·
   <a href="docs/README.he.md">עברית</a>
